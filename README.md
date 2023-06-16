@@ -1,8 +1,8 @@
-Type your OpenAI API code on '.env' file inside server folder to access OpenAI LLM.
+type api code on '.env' file inside server folder to get access
 
-USE THIS CODE TO RUN LOCAL BACKEND: 'npm run server'
+type 'npm run server' on server terminal
 
-USE THIS CODE TO RUN FRONTEND: 'npm run dev'
+type 'npm run dev' on client terminal
 
 sauce: https://www.youtube.com/watch?v=2FeymQoKvrk&t=3184s&ab_channel=JavaScriptMastery
 
